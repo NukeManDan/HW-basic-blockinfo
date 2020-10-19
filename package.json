@@ -3,7 +3,6 @@
   "version": "0.1.1",
   "private": true,
   "author": "Dan Shields <nukemandan@protonmail.com>",
-  "home[age": "https://github.com/NukeManDan/HW-basic-blockinfo",
   "license": "Unlicense",
   "scripts": {
     "start": "react-scripts start",
@@ -84,9 +83,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://substrate-developer-hub.github.io/substrate-front-end-template",
+  "homepage": "https://nukemandan.github.io/HW-basic-blockinfo/",
   "bugs": {
-    "url": "https://github.com/substrate-developer-hub/substrate-front-end-template/issues"
+    "url": "https://github.com/NukeManDan/HW-basic-blockinfo/issues"
   },
   "keywords": [
     "substrate",
