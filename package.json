@@ -2,7 +2,8 @@
   "name": "substrate-front-end-template",
   "version": "0.1.1",
   "private": true,
-  "author": "Parity Technologies <admin@parity.io>",
+  "author": "Dan Shields <nukemandan@protonmail.com>",
+  "home[age": "https://github.com/NukeManDan/HW-basic-blockinfo",
   "license": "Unlicense",
   "scripts": {
     "start": "react-scripts start",
